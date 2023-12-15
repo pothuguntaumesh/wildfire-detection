@@ -102,9 +102,6 @@ python main.py
 
 ![Alt text](/frames/segmentation_img.png)
 
-## Other related repositories and articles
-* [Fire Detection From Images](https://github.com/robmarkcole/fire-detection-from-images)
-
 
 ## License
 For academtic and non-commercial usage
