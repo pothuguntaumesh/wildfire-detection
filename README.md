@@ -77,6 +77,16 @@ Make sure that you have copied and unzipped the data in correct direcotry.
 ```
 Mode = 'Segmentation'
 ```
+
+* To train with  Xception-lite, change the **mode** value to 'Classification' in the config.py file. 
+```
+Mode = 'Myxception'
+```
+* To train with  Xception, change the **mode** value to 'Classification' in the config.py file. 
+```
+Mode = 'xception'
+```
+
 Make sure that you have copied and unzipped the data in correct direcotry.
 
 Then after setting your parameters, just run the main.py file.
@@ -85,13 +95,6 @@ python main.py
 ```
 
 ## Results
-* Fire classification accuracy:
-
-* Fire classification Confusion Matrix:
-
-<!--- ![Alt text](/Output/confusion.PNG) --->
-
-* Fire segmentation metrics and evaluation:
 
 ![Alt text](/frames/segmentation`_results.png)
 
