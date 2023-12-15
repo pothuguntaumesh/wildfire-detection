@@ -87,16 +87,13 @@ python main.py
 ## Results
 * Fire classification accuracy:
 
-![Alt text](/Output/classification.PNG)
-
 * Fire classification Confusion Matrix:
 
-<img src=/Output/confusion.PNG width="500" height="500"/>
 <!--- ![Alt text](/Output/confusion.PNG) --->
 
 * Fire segmentation metrics and evaluation:
 
-![Alt text](/frames/segmentation_results.png)
+![Alt text](/frames/segmentation`_results.png)
 
 * Comparison between generated masks and grount truth mask:
 
