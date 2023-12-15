@@ -96,11 +96,11 @@ python main.py
 
 * Fire segmentation metrics and evaluation:
 
-![Alt text](frames/segmentation_results.png)
+![Alt text](/frames/segmentation_results.png)
 
 * Comparison between generated masks and grount truth mask:
 
-![Alt text](frames/segmentation_img.png)
+![Alt text](/frames/segmentation_img.png)
 
 ## Other related repositories and articles
 * [Fire Detection From Images](https://github.com/robmarkcole/fire-detection-from-images)
